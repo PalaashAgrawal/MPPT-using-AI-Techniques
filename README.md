@@ -26,19 +26,24 @@ x^3
 sin(x)
 cos(x)
 
-After which , the data was normalized
+After which , the data was normalized.
 
 
-NN training
+NN training.
 The model utilizes a stacked ensemble Neural Network model, which trains on 2 levels.
 
 Level0:
+
+
 function mapping from input to output. 
 Operating Voltage and Current were trained on two separate, but identical Neural Network Models
 Activation Function? None
 Backpropagation method? fmincg
+                        
                         Minimize a continuous differentialble multivariate function
-                        Copyright ,Carl Edward Rasmussen,2002
+                        Copyright ,Carl Edward Rasmussen,2002.
+                        
+                       
                         The Polack-Ribiere flavour of conjugate gradients is used to compute search directions,
                         and a line search using quadratic and cubic polynomial approximations and the
                         Wolfe-Powell stopping criteria is used together with the slope ratio method
@@ -48,5 +53,6 @@ Backpropagation method? fmincg
 Level 1
 function mapping from output of level 1(corresponding to a fresh dataset) to the ground truth (Y , normalized).
 This layer acts as a fine tuning model, to improve results from layer 0.
+
 
 Further developments will be appended as and when developed and tested.
