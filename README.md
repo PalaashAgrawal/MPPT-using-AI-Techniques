@@ -4,10 +4,10 @@ This project is directed towards the advancement of Hybrid Solar Electric Vehicl
 
 
 MPPT is done using a stacked ensemble Neural Network Model, which takes:
-Ambient Temperature
-Solar Irradiation (DNI)
-Solar Irradiation (DHI)
-Solar Altitude Angle
+Ambient Temperature, 
+Solar Irradiation (DNI), 
+Solar Irradiation (DHI), 
+Solar Altitude Angle, and
 Solar Azimuth Angle
 
 Data
