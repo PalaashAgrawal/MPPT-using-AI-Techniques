@@ -9,4 +9,10 @@ Collected through the Photovoltaic simulation dataset from System Advisor Model 
 
 This dataset consists of half-hourly weather files for 49 different cities in USA. 
 
-The code will be available onve the paper has been published.
+Results:
+
+Actual optimized power produced by a standard 2.2 PV cell:
+[image_actual](actual.png)
+
+Results from the model:
+[image_pred](prediction.png)
