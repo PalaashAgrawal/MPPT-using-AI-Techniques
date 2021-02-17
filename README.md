@@ -12,9 +12,11 @@ This dataset consists of half-hourly weather files for 49 different cities in US
 Results:
 
 Actual optimized power produced by a 2mx2m generic PV cell:
+
 ![image_actual](actual.png)
 
 Results from the model:
+
 ![image_pred](prediction.png)
 
 Power prediction error: 0.47%
