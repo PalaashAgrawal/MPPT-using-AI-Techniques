@@ -1,7 +1,6 @@
 # MPPT-using-AI-Techniques
 
 A academic research project under Dr. Hari Om Bansal, Associate Professor, BITS Pilani. This project proposes a novel sets of inputs to Deep Neural Networks, that comprehensively describe the ambient conditons of a location, and ways to handle and train on such inputs.
-Accepted in "“Intelligent Renewable Energy Systems: Integrating AI Techniques and Optimization Algorithms”, as a book chapter, in Wiley, Scrivener Publishing, Scopus indexing, for publication.
 
 Dataset:
 Collected through the Photovoltaic simulation dataset from System Advisor Model (SAM), an application developed by National Renewable Energy Laboratory, USA  
