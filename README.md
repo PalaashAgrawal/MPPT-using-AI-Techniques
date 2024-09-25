@@ -1,10 +1,9 @@
-# MPPT-using-AI-Techniques
+# Transformer based Time Series Prediction of the Maximum Power Point for photovoltaic cells
 
-A academic research project under Dr. Hari Om Bansal, Associate Professor, BITS Pilani. This project proposes a novel sets of inputs to Deep Neural Networks, that comprehensively describe the ambient conditons of a location, and ways to handle and train on such inputs.
+Dataset and code used for the paper ([link](https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/ese3.1226)) 
 
 Dataset:
-Collected through the Photovoltaic simulation dataset from System Advisor Model (SAM), an application developed by National Renewable Energy Laboratory, USA  
-(https://sam.nrel.gov/)
+The dataset used in this project is sourced from the National Renewable Energy Laboratory’s (NREL) System Advisor Model (SAM) (https://sam.nrel.gov/), an application developed by National Renewable Energy Laboratory, USA. The weather data is simulated for 50 cities in India, providing half-hourly data points. This includes many descriptiive features of ambient weather conditions, including Solar irradiance (DNI, DHI), Ambient temperature, Wind speed, Humidity levels, and  Pollution levels (PM10 concentration).
 
 This dataset consists of half-hourly weather files for 49 different cities in USA. 
 
